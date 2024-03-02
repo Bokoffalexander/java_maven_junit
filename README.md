@@ -2,6 +2,16 @@
 
 ## Maven + junit (4 теста запускаются)
 
+This command is used to execute all Maven phases until the package phase. The mvn package compiles, verifies, and builds the project.
+
+Additionally, the mvn package creates the JAR file and places it in a specific folder under a specific folder.
+
+```sh
+mvn package
+```
+
+Дерево
+
 ```sh
 ├── pom.xml
 ├── README.md
