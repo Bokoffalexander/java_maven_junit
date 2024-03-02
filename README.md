@@ -6,14 +6,14 @@
 ├── pom.xml
 ├── README.md
 ├── src
-│   ├── main
-│   │   └── java
-│   │       └── calculator
-│   │           └── Calculator.java
-│   └── test
-│       └── java
-│           └── calculator
-│               └── CalculatorTest.java
+    ├── main
+    │   └── java
+    │       └── calculator
+    │           └── Calculator.java
+    └── test
+        └── java
+            └── calculator
+                └── CalculatorTest.java
 ```
 
 pom.xml
